@@ -1,18 +1,18 @@
 👋 Hi, I'm **Fred**  
 
-🎓 **Student** at 42 London  
+🎓 **Student** at [42 London] (https://42london.com/)
 
-💻 **IT Specialist** at 42 London  
+💻 **IT Specialist** at [42 London] (https://42london.com/)  
 
 🌍 **Languages**: 🇩🇪 Deutsch / 🇬🇧 English  
 
 🤖 **Interested in**:  AI research, SaaS, Image Rendering Algorithms  
 
-🌟 **Favorite project**: 42 miniRT  
+🌟 **Favorite project**: [MiniRT] (https://github.com/fredch16/miniRT)  
 
 💙 **Favorite programming language**: C  
 
-😤 **Fun Fact**: I write passionate commit messages
+💡 **Fun Fact**: 😤 I write passionate commit messages ⚽ I'm a semi-professional right winger 🪖 I have a recurring addiction to [EFT] (https://escapefromtarkov.com/) every 6 months 
 
 ## 🌐 Reach Out:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fredcharbonnier) 
