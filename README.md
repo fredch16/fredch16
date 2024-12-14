@@ -6,7 +6,7 @@
 
 🌍 **Languages**: 🇩🇪 Deutsch / 🇬🇧 English  
 
-🤖 **Interested in**:  AI research, SaaS, Image Rendering Algorithms  
+🤖 **Interested in**:  Astrophyics, AI research, SaaS, Image Rendering Algorithms  
 
 🌟 **Favorite project**: [MiniRT](https://github.com/fredch16/miniRT)  
 
