@@ -1,8 +1,8 @@
 👋 Hi, I'm **Fred**  
 
-🎓 **Student** at [42 London](https://42london.com/)
+🎓 **Student** at [42 Heilbronn](https://42heilbronn.de/)
 
-💻 **IT Specialist** at [42 London](https://42london.com/)  
+💻 **ex IT Specialist** at [42 London](https://42london.com/)  
 
 🌍 **Languages**: 🇩🇪 Deutsch / 🇬🇧 English  
 
